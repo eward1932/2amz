@@ -1,3 +1,4 @@
+<?php include('filter.php'); ?>
 <?php
 ob_start();
 session_start();
